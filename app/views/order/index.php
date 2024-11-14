@@ -1,4 +1,4 @@
-<h1 class="mb-3">Data Customer</h1>
+<h1 class="mb-3">Data Order</h1>
 <a href="/order/create" class="mb-3 btn btn-primary btn-sm">Create Order</a>
 <table id="orderTable" class="datatable table table-striped" style="width:100%">
     <thead>

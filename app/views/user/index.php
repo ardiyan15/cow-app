@@ -1,4 +1,4 @@
-<h1 class="mb-3">Data Customer</h1>
+<h1 class="mb-3">Data User</h1>
 <a href="/user/create" class="mb-3 btn btn-primary btn-sm">Create User</a>
 <table id="userTable" class="datatable table table-striped" style="width:100%">
     <thead>
